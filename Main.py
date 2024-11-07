@@ -17,5 +17,4 @@ print(num_list.index(9))
 fruit_list = ["apple", "banana", "cherry"]
 fruit_list[1] = "orange"
 fruit_list.pop()
-
 print(fruit_list)
